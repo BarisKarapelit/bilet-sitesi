@@ -45,16 +45,16 @@ export const NAVIGATION = [
     route: '/stage/a'
   },
   {
+    name: 'Stage B',
+    route: '/stage/c'
+  },
+  {
     name: 'Stage C',
     route: '/stage/c'
   },
   {
-    name: 'Stage M',
-    route: '/stage/m'
-  },
-  {
-    name: 'Stage E',
-    route: '/stage/e'
+    name: 'Stage D',
+    route: '/stage/d'
   },
   {
     name: 'Schedule',
